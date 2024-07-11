@@ -1,0 +1,15 @@
+@media(width:320px){
+
+	.header a{
+	display: none;
+	}
+	.menuburger{
+		.v1{
+			display: block;
+		}
+	}
+	.header button{
+		display: none;
+	}
+
+}
